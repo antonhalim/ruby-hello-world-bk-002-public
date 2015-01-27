@@ -6,6 +6,6 @@ describe "Hello World" do
     expect($stdout).to receive(:puts).with("Hello World!")
     # Get your program to puts "Hello World!"
     # Code your solution right here.
-  end
-
+  puts "Hello World!"
+	end
 end
